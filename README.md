@@ -1,6 +1,8 @@
 # Assignment: Datasets Filter
 
-This repository is compatible with [Replit](https://replit.com/).
+![](https://github.com/edu-python-course/assignment-ds-filter/actions/workflows/unittests.yml/badge.svg)
+
+[![Run on Repl.it](https://replit.com/badge/github/edu-python-course/assignment-ds-filter)](https://replit.com/new/github/edu-python-course/assignment-ds-filter)
 
 ## Materials within this repo
 

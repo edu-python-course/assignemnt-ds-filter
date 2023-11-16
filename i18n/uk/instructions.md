@@ -39,12 +39,11 @@ dataset = [
 
 1. [Dictionary](https://docs.python.org/3/glossary.html#term-dictionary)
 2. [Hashable](https://docs.python.org/3/glossary.html#term-hashable)
-3. [Клас словника](https://docs.python.org/3/library/stdtypes.html#dict)
+3. [Dictionary class](https://docs.python.org/3/library/stdtypes.html#dict)
 
 ## Завдання
 
-Ваше завдання — створити функцію, яка виконує фільтрацію набору даних за унікальними значеннями
-. Для фільтрації слід застосовувати лише значення в заданому наборі ключів.
+Ваше завдання — створити функцію, яка виконує фільтрацію набору даних за унікальними значеннями. Для фільтрації слід застосовувати лише значення в заданому наборі ключів.
 `DataSet` є єдиним обов’язковим аргументом, якщо не надано фільтр `Keys`,
 будуть використані всі доступні ключі.
 

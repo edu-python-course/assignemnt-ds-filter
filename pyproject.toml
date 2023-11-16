@@ -1,8 +1,11 @@
 [tool.poetry]
-name = "todo-provide-assignment-name"
-version = "0.1.0"
-description = "todo: provide assignment description"
-authors = ["Author Name <authorl@email.com>"]
+name = "assignment-ds-filter"
+version = "1.0.0"
+description = "Filter a list of dictionaries based on specified values"
+authors = [
+    "Vladyslav Ponomaryov",
+    "Serhii Horodilov <sgorodil@gmail.com>",
+]
 readme = "README.md"
 
 [tool.poetry.dependencies]

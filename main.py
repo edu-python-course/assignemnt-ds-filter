@@ -1,6 +1,25 @@
-# This is a sample Python script.
-# Provide code snippets and/or boiler plates here.
+"""
+Dataset filter assignment
+
+Follow the instructions document to complete the assignment.
+
+"""
+
+from typing import Dict, Hashable, List, Optional
+
+# data types aliases
+DataEntry = Dict[str, Hashable]
+DataSet = List[DataEntry]
+Keys = List[str]
+
+
+def filter_by_values(dataset: DataSet, keys: Optional[Keys]) -> DataSet:
+    """
+    Return a dataset filtered by unique values in a list of given keys
+    """
+
+    # TODO: add function implementation
 
 
 if __name__ == "__main__":
-    """Write any useful code here"""
+    """Place any custom code checks"""
